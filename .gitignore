@@ -27,3 +27,6 @@ bin/
 
 ### Mac OS ###
 .DS_Storeadd.properties 
+add.properties 
+
+src/add
